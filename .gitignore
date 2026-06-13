@@ -1,0 +1,13 @@
+.env.example
+.env
+.DS_Store
+*.jks
+*.keystore
+/build/
+/ios/Flutter/Flutter.podspec
+/ios/Pods/
+/ios/Flutter/flutter_export_environment.sh
+.gradle
+.m2
+*.log
+key.properties
